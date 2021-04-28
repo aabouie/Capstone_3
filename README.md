@@ -66,23 +66,23 @@ In this section, I looked at my model in more details to figure out why it has m
 
 The following part shows some questions that Yahoo tagged as "Business and Finance" but apparently they are not related to that category. I also shows how our model is picking up the word and predicts the probability of each category.
 
-* Question 1: For 6 months, I have received this error,"a required DLL file, YIMAGE", was not found. Can you help me please
-* Answer 1: delete yahoo messenger completly and make sure there nothing left in the and redownload it.
+* **Question 1**: For 6 months, I have received this error,"a required DLL file, YIMAGE", was not found. Can you help me please
+* **Answer 1**: delete yahoo messenger completly and make sure there nothing left in the and redownload it.
 
 
-* Question 2: why do i feel left out? all the time?
-* Answer 2: Probably the same reason I do. I have a hard time being out 
+* **Question 2**: why do i feel left out? all the time?
+* **Answer 2**: Probably the same reason I do. I have a hard time being out 
 going. But you can work on it. Just asert yourself, people WANT 
 to be around you trust me I know.
 
 
 
-* Question 3:
-* Answer 3:
+* **Question 3**:
+* **Answer 3**:
 
 
-* Question 4:
-* Answer 4:
+* **Question 4**:
+* **Answer 4**:
 
 * 
 

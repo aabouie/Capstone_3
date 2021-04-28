@@ -5,7 +5,8 @@
 
 
 ## EDA Analysis
-
+The dataset can be downloaded from this link:
+https://course.fast.ai/datasets
 
 
 
@@ -45,6 +46,19 @@
 
 
 ## Model Review
+fdssfg
+gfdgdff
+### 1. Mislabeling by Yahoo!
+
+
+
+
+### 2. Complicated Structure/sentence
+
+
+
+
+
 
 
 ## Towards a Better Model

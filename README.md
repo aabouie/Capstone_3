@@ -1,6 +1,5 @@
+# NLP Analysis of Yahoo Questions for Content Tagging
 ![](img/Logo_1.png)
-# NLP Analysis of Yahoo Questions for Tagging Application
-
 
 
 

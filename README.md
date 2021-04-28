@@ -21,11 +21,12 @@
 
 ## ML Model
 
-
+| Model Name  |  Accuracy Score |
 | -- | -- |
-|  a  |  b  |
-|  c  |  d  |
-|  e  |  f  |
+|  Logistic Classification  |  0.72  |
+|  Gradient Boost  |  0.68  |
+|  Random Forest  |  0.66  |
+|  Naive Bayes  |  0.65  |
 
 
 

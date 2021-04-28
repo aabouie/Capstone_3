@@ -50,6 +50,8 @@ https://course.fast.ai/datasets
 
 ![](img/Latest_plot_confusion.png)
 
+<img src="img/Latest_plot_confusion.png" width="600" height="600">
+
 
 
 ![](img/Logistic_importance.png)

@@ -86,9 +86,7 @@ Confusion matrix also shows the same behavior as we have relatively lower true p
 </p>
 
 
-Finally, 
-
-
+Finally, it was possible to get the most important feature per category for each classification model. The following figures show the most important keywords in logistic classification model. As can be seen, the final model has picked up the correct words for the purpose of classification. For instance, the most import keywords for the "Business & Finance" category is business, realtor, stock, investing, mortgage, marketing, investor, investment, estate, and tax. The feature important plot show how accurately our model has picked up on the most important phrases and keywords.
 
 
 |      Sports        |       Politics        |
@@ -98,10 +96,8 @@ Finally,
 |![](img/Health.png) |  ![](img/Business.png)| 
 
 
-
-
 ## Model Review
-In this section, I looked at my model in more details to figure out why it has misclassified some questions, especially "Business & Finance" and "Education" categories. After detailed analysis, I found two main reasons for misclassification: 1) mislabeling the tags by Yahoo 2) complicated sentence structure. The following section explains about these items in more details:
+In this section, I looked at my model in more details to figure out why it has misclassified some questions, especially "Business & Finance" and "Education" categories. After detailed analysis, I found two main reasons for misclassification: 1) mislabeling the tags by Yahoo, 2) complicated sentence structure. The following section explains about these items in more details:
 
 ### Mislabeling by Yahoo!
 

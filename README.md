@@ -24,10 +24,13 @@ https://course.fast.ai/datasets
 
 
 ## Data Insights
-Since the data was relatively clean, I decided to perform sentiment analysis on the questions and answers to interpret the mood and emotions of the users. In order to perform sentiment analysis, I used TextBlob which is a python library for Natural Language Processing (NLP).
-TextBlob uses a pre-defined dictionary classifying negative and positive words. In this process, a text messsage will be represented by bag of words. After assigning individual scores to all the words, final sentiment is calculated by some pooling opeartion like taking average of all the sentiments.
+In this section, I performed sentiment analysis on the questions and answers to interpret the mood and emotions of the users. In order to perform sentiment analysis, I used TextBlob which is a python library for Natural Language Processing (NLP).
+TextBlob uses a pre-defined dictionary classifying negative and positive words. In this process, a text messsage will be represented by bag of words. After assigning individual scores to all the words, final sentiment is calculated by some pooling opeartion like taking average of all the sentiments. The polarity lies between -1 and 1, where -1 means a negative sentiment, +1 means a positive sentiment, and 0 means neutral. 
+Subjectivity also quantifies the amount of personal opinion and factual information. Subjectivity is in the range of 0 and 1. Subjectivity1 means the text
 
+On the other hand, subjectivity is in the range of 0 and 1,
 
+<img align="right" width="250" src="img/sentiment_polarity.png">
 
 ![](img/sentiment_polarity.png)
 

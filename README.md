@@ -11,7 +11,7 @@
 
 
 
-![](img/Balanced_data.JPG)
+![](img/Classes_2.png)
 
 
 

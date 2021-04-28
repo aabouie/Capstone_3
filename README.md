@@ -94,43 +94,42 @@ In this section, I looked at my model in more details to figure out why it has m
 
 The following part shows some questions that Yahoo tagged as "Business and Finance" but apparently they are not related to that category. I also shows how our model is picking up the word and predicts the probability of each category.
 
-* **Question 1**: For 6 months, I have received this error,"a required DLL file, YIMAGE", was not found. Can you help me please
-* **Answer 1**: delete yahoo messenger completly and make sure there nothing left in the and redownload it.
+*   **Question 1**: For 6 months, I have received this error,"a required DLL file, YIMAGE", was not found. Can you help me please
+*   **Answer 1**: delete yahoo messenger completly and make sure there nothing left in the and redownload it.
 ![](img/Flaged_as_buisiness.png)
 
 
-* **Question 2**: why do i feel left out? all the time?
-* **Answer 2**: Probably the same reason I do. I have a hard time being out 
+*   **Question 2**: why do i feel left out? all the time?
+*   **Answer 2**: Probably the same reason I do. I have a hard time being out 
 going. But you can work on it. Just asert yourself, people WANT 
 to be around you trust me I know.
 ![](img/Health_Predicted_7.png)
 
 
-* **Question 3**: which is the largest palace in the world?
-* **Answer 3**: Largest residential palace is the Istana Nurul Iman. This is where the Sultan of Brunei lives. 2,152,782 square feet.The Forbidden City in Beijing is the biggest Palace Complex and used to be the home of the Chinese Emperors before the revolution and is 7,750,000 squre feet in size.'
+*   **Question 3**: which is the largest palace in the world?
+*   **Answer 3**: Largest residential palace is the Istana Nurul Iman. This is where the Sultan of Brunei lives. 2,152,782 square feet.The Forbidden City in Beijing is the biggest Palace Complex and used to be the home of the Chinese Emperors before the revolution and is 7,750,000 squre feet in size.'
 ![](img/Palace_predicted_7.png)
 
 
 ### Complicated Sentence Structure
 
-* **Question 1**: how could you distunguish a plant cell from an animal cell when looking in a microscope?4 my bio lab final...help! thanks!
-* **Answer 1**: animal cells don't have a cell wall
+*   **Question 1**: how could you distunguish a plant cell from an animal cell when looking in a microscope?4 my bio lab final...help! thanks!
+*   **Answer 1**: animal cells don't have a cell wall
 ![](img/Predicted_2_True_4.png)
 
 
-* **Question 2**: what is the difference between coca-cola classic and coca-cola?
-* **Answer 2**: Coca-Cola is the default name for the beverage. Coca-Cola Classic is a more recent name used in comparison with New Coke, which failed miserably.
+*   **Question 2**: what is the difference between coca-cola classic and coca-cola?
+*   **Answer 2**: Coca-Cola is the default name for the beverage. Coca-Cola Classic is a more recent name used in comparison with New Coke, which failed miserably.
 ![](img/coca_predicted_7.png)
 
 
 ## Towards a Better Model
 In the future, I plan to continue on this project as mentioned below:
 
-* Build a Long Short Term Memory (LSTM) deep learning model and try feature engineering by transforming
+*   Build a Long Short Term Memory (LSTM) deep learning model and try feature engineering by transforming
 the corpus into a list of sequences using Word2Vec model
 
-* Apply transfer learning model to the corpus using Google's BERT module (Bidirectional Encoder Representations from Transformers)
-
+*   Apply transfer learning model to the corpus using Google's BERT module (Bidirectional Encoder Representations from Transformers)
 
 
 ## Acknowledgments

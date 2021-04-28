@@ -1,17 +1,20 @@
+<img align="right" width="400" src="img/Logo_1.png">
 # NLP Analysis of Yahoo Questions for Content Tagging
 ![](img/Logo_1.png)
 
-
+Text
 
 
 
 
 ## EDA Analysis
-The dataset can be downloaded from this link:
+
+
+The dataset for Yahoo questions and answers can be downloaded from this link:
 https://course.fast.ai/datasets
 
 
-
+<img align="right" width="400" src="img/sentiment_polarity.png">
 
 
 ![](img/Classes_2.png)
@@ -57,9 +60,9 @@ In the next step, we used four different
 |  Random Forest  |  0.66  |
 |  Naive Bayes  |  0.65  |
 
+<img align="right" width="400" src="img/ROC_Curve_2.png">
 
-
-![](img/ROC_Curve.png)
+![](img/ROC_Curve_2.png)
 
 
 

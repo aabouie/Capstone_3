@@ -25,7 +25,9 @@ https://course.fast.ai/datasets
 
 ![](img/sentiment_polarity.png)
 
+![](img/subj_ve_polar.png)
 
+![](img/subj_ve_polar2.png)
 
 
 ## Modeling
@@ -40,6 +42,11 @@ https://course.fast.ai/datasets
 |  Gradient Boost  |  0.68  |
 |  Random Forest  |  0.66  |
 |  Naive Bayes  |  0.65  |
+
+
+
+![](img/ROC_Curve.png)
+
 
 
 ![](img/Latest_plot_confusion.png)
@@ -60,7 +67,8 @@ gfdgdff
 
 ### 2. Complicated Structure/sentence
 
-
+Question:
+Answer  : 
 
 
 

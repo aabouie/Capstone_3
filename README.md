@@ -12,7 +12,7 @@ https://course.fast.ai/datasets
 
 
 I selected 140,000 documents from each category, total of 1,400,000 documents. As can be seen in the following figure, Yahoo has classified the questions into 10 groups including:
-<img align="right" width="400" src="img/Classes_2.png">
+<img align="right" width="500" src="img/Classes_2.png">
 *   Politics & Government
 *   Family and Relationships
 *   Entertainment & Music

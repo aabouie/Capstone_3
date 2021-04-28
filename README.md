@@ -1,5 +1,5 @@
 # NLP Analysis of Yahoo Questions for Tagging Application
-
+![](img/Logo_1.png)
 
 
 
@@ -54,7 +54,6 @@ https://course.fast.ai/datasets
 |      Sports        |       Politics        |
 |       --           |         --            |
 |![](img/Sports.png) | ![](img/Politics.png) | 
-|       --           |         --            |
 |      Health        |       Business        |
 |![](img/Health.png) |  ![](img/Business.png)| 
 

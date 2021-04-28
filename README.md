@@ -68,7 +68,8 @@ In the next step, we used four different
 
 
 
-<img src="img/Confusion_3.png" width="550" height="550">
+![](img/Confusion_3.png)
+
 
 |      Sports        |       Politics        |
 |       --           |         --            |

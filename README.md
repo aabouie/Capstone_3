@@ -40,12 +40,17 @@ This figure shows the histogram of sentiment polarity for the 1.4 million questi
 
 
 ## Modeling
-The following figure shows the workflow that we implemented in this work. 
+The following figure shows the implemented workflow in this work. 
 ![](img/Workflow.JPG)
 
-As mentioned in the prevoius part, we started with EDA to find meaningful insights from the data (i.e., questions and answers). At the end, we are using 140,000 questions and answer for each question categories. 
-In the next step, we performed text featurization. Hence, we tokezined the document, removed punctuations and stop words, performed stemming, and lemmatization. At the end, we used unigram and bigram TFIDF vectorization to get the features of our model.
-Since we got too many features at this step, we decided to use feature reduction techniques to reduce the number of features. Therefore, we used Chi squared and/or Min/Max document frequency techniques.
+First, we started with EDA to find meaningful insights from the data (i.e., questions and answers) and we  used 140,000 questions and answer from each category. 
+In the next step, we performed text featurization. In other words, we tokezined the document, removed punctuations and stop words, performed stemming, and lemmatization. Finally, we used unigram and bigram TFIDF vectorization to get the required features.
+Since we ended up with too many features at this step, we used feature reduction techniques to reduce the number of features. Therefore, Chi squared and Min/Max document frequency techniques were used to reduce the number of features.
+Then, we splitted our data into training and test set with ratio of 90:10. Four different classification models were used in this work including: 
+*   Naive Bayes
+*   Logistic Classification
+*   Random Forest
+*   Gradient Boost.
 In the next step, we used four different 
 
 

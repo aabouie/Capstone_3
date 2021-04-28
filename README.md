@@ -17,6 +17,10 @@ https://course.fast.ai/datasets
 
 
 
+
+![](img/most_common_words3.png)
+
+
 ## Data Insights
 
 ![](img/sentiment_polarity.png)
@@ -49,7 +53,8 @@ https://course.fast.ai/datasets
 fdssfg
 gfdgdff
 ### 1. Mislabeling by Yahoo!
-
+*   fds
+*   *fdsf
 
 
 

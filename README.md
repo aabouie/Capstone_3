@@ -1,4 +1,4 @@
-<img align="right" width="400" src="img/Logo_1.png">
+<img align="right" width="250" src="img/Logo_1.png">
 
 # NLP Analysis of Yahoo Questions for Content Tagging
 ![](img/Logo_1.png)

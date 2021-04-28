@@ -59,7 +59,7 @@ https://course.fast.ai/datasets
 ## Model Review
 In this section, I looked at my model in more details to figure out why it has misclassified some questions, especially "Business & Finance" and "Education" categories. After detailed analysis, I found two main reasons for misclassification: 1) mislabeling the tags by Yahoo 2) complicated sentence structure. The following section explains about these items in more details:
 
-### 1. Mislabeling by Yahoo!
+### Mislabeling by Yahoo!
 
 
 
@@ -82,19 +82,16 @@ to be around you trust me I know.
 ![](img/Palace_predicted_7.png)
 
 
-### 2. Complicated Sentence Structure
+### Complicated Sentence Structure
 
 * **Question 1**: how could you distunguish a plant cell from an animal cell when looking in a microscope?4 my bio lab final...help! thanks!
 * **Answer 1**: animal cells don't have a cell wall
 ![](img/Predicted_2_True_4.png)
 
 
-
-
 * **Question 2**: what is the difference between coca-cola classic and coca-cola?
 * **Answer 2**: Coca-Cola is the default name for the beverage. Coca-Cola Classic is a more recent name used in comparison with New Coke, which failed miserably.
 ![](img/coca_predicted_7.png)
-
 
 
 ## Towards a Better Model

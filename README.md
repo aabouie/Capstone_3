@@ -27,7 +27,6 @@ https://course.fast.ai/datasets
 
 ![](img/subj_vs_polar.png)
 
-![](img/subj_vs_polar2.png)
 
 
 ## Modeling
@@ -57,20 +56,45 @@ https://course.fast.ai/datasets
 
 
 ## Model Review
-fdssfg
-gfdgdff
+In this section, I looked at my model in more details to figure out why it has misclassified some questions, especially "Business & Finance" and "Education" categories. After detailed analysis, I found two main reasons for misclassification: 1) mislabeling the tags by Yahoo 2) complicated sentence structure. The following section explains about these items in more details:
+
 ### 1. Mislabeling by Yahoo!
+
+
 *   fds
 *   *fdsf
 
+The following part shows some questions that Yahoo tagged as "Business and Finance" but apparently they are not related to that category. I also shows how our model is picking up the word and predicts the probability of each category.
+
+* Question 1: For 6 months, I have received this error,"a required DLL file, YIMAGE", was not found. Can you help me please
+* Answer 1: delete yahoo messenger completly and make sure there nothing left in the and redownload it.
 
 
-### 2. Complicated Structure/sentence
+* Question 2: why do i feel left out? all the time?
+* Answer 2: Probably the same reason I do. I have a hard time being out 
+going. But you can work on it. Just asert yourself, people WANT 
+to be around you trust me I know.
 
-Question:
-Answer  : 
 
 
+* Question 3:
+* Answer 3:
+
+
+* Question 4:
+* Answer 4:
+
+* 
+
+
+
+### 2. Complicated Sentence Structure
+
+* Question 1:
+* Answer 1: 
+
+* Question 2: what is the difference between coca-cola classic and coca-cola?
+* Answer 2: Coca-Cola is the default name for the beverage. Coca-Cola Classic is a more recent name used in comparison with New Coke, which failed miserably.'
 
 
 

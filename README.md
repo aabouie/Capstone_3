@@ -49,9 +49,12 @@ https://course.fast.ai/datasets
 
 
 
-<img src="img/Latest_plot_confusion.png" width="550" height="550">
+<img src="img/Confusion_3.png" width="550" height="550">
 
-
+|      Sports        |       Politics        |
+|![](img/Sports.png) | ![](img/Politics.png) | 
+!      Health        |       Business        |
+|![](img/Health.png)  |  ![](img/Business.png) | 
 
 ![](img/Logistic_importance.png)
 

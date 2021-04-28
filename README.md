@@ -25,9 +25,9 @@ https://course.fast.ai/datasets
 
 ![](img/sentiment_polarity.png)
 
-![](img/subj_ve_polar.png)
+![](img/subj_vs_polar.png)
 
-![](img/subj_ve_polar2.png)
+![](img/subj_vs_polar2.png)
 
 
 ## Modeling

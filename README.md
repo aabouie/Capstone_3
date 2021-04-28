@@ -63,7 +63,7 @@ Afterward, we performed hyperparameter tuning using Gridsearching and cross vali
 ## ML Model
 The following table presents the accuracy score achieved by the four different classification models. As can be seen, logistic classification achieved highest score of 0.72. I have to mention there is a publication from Yahoo on this dataset with accuracy score of 0.68. Hence, logistic classification is performing relatively well on this dataset.
 
-| Model Name  |  Accuracy Score |
+| Classification Model |  Accuracy Score |
 | -- | -- |
 |  Logistic Classification  |  0.72  |
 |  Gradient Boost  |  0.68  |
@@ -86,7 +86,7 @@ Confusion matrix also shows the same behavior as we have relatively lower true p
 </p>
 
 
-
+Finally, 
 
 
 
@@ -105,9 +105,8 @@ In this section, I looked at my model in more details to figure out why it has m
 
 ### Mislabeling by Yahoo!
 
-
-
 The following part shows some questions that Yahoo tagged as "Business and Finance" but apparently they are not related to that category. I also shows how our model is picking up the word and predicts the probability of each category.
+
 
 *   **Question 1**: For 6 months, I have received this error,"a required DLL file, YIMAGE", was not found. Can you help me please
 *   **Answer 1**: delete yahoo messenger completly and make sure there nothing left in the and redownload it.
@@ -146,6 +145,12 @@ the corpus into a list of sequences using Word2Vec model
 
 *   Apply transfer learning model to the corpus using Google's BERT module (Bidirectional Encoder Representations from Transformers)
 
+
+## Technologies Used to Complete this Project
+
+<p align="center">
+ <img align="center" src="img/Tech_Stack.JPG">  
+</p>
 
 ## Acknowledgments
 I greatly appreciate Galvanize instructors, Juliana Duncan and Dan Rupp, for their valuable comments during this project.

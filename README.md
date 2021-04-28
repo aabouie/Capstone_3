@@ -24,6 +24,10 @@ https://course.fast.ai/datasets
 
 
 ## Data Insights
+Since the data was relatively clean, I decided to perform sentiment analysis on the questions and answers to interpret the mood and emotions of the users. In order to perform sentiment analysis, I used TextBlob which is a python library for Natural Language Processing (NLP).
+TextBlob uses a pre-defined dictionary classifying negative and positive words. In this process, a text messsage will be represented by bag of words. After assigning individual scores to all the words, final sentiment is calculated by some pooling opeartion like taking average of all the sentiments.
+
+
 
 ![](img/sentiment_polarity.png)
 

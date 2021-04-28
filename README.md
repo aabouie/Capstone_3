@@ -4,6 +4,8 @@
 
 <img src="img/Logo_1.png" width="550" height="550">
 
+<img src="img/Logo_2.png" width="550" height="550">
+
 
 
 ## EDA Analysis

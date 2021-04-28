@@ -54,8 +54,9 @@ https://course.fast.ai/datasets
 |      Sports        |       Politics        |
 |       --           |         --            |
 |![](img/Sports.png) | ![](img/Politics.png) | 
-!      Health        |       Business        |
-|![](img/Health.png)  |  ![](img/Business.png) | 
+|       --           |         --            |
+|      Health        |       Business        |
+|![](img/Health.png) |  ![](img/Business.png)| 
 
 
 

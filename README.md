@@ -7,11 +7,19 @@
 ## EDA Analysis
 
 
-![](img/sentiment_polarity.png)
+
+
+
+
+![](img/Balanced_data.JPG)
+
 
 
 
 ## Data Insights
+
+![](img/sentiment_polarity.png)
+
 
 
 
@@ -29,8 +37,14 @@
 |  Naive Bayes  |  0.65  |
 
 
+![](img/Latest_plot_confusion.png)
 
 
+
+![](img/Logistic_importance.png)
+
+
+## Model Review
 
 
 ## Towards a Better Model

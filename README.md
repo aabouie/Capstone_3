@@ -2,6 +2,8 @@
 ![](img/Logo_1.png)
 
 
+<img src="img/Logo_1.png" width="550" height="550">
+
 
 
 ## EDA Analysis

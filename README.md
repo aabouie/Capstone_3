@@ -70,7 +70,12 @@ The following table presents the accuracy score achieved by the four different c
 |  Random Forest  |  0.66  |
 |  Naive Bayes  |  0.65  |
 
-<img align="right" width="400" src="img/ROC_Curve_2.png">
+
+<p align="center">
+ <img align="center" src="img/ROC_Curve_2.png">  
+</p>
+
+
 The following figure shows the ROC curve for all the different categories. The y-axis is true positive rate and x-axis is false positive rate. As can be seen, the model is having a good performance for most categories except "Business & Finance" and "Education & Reference".
 ![](img/Confusion_3.png)
 Confusion matrix also shows the same behavior as we have relatively lower true positives (main diagonal) for these two specific categories compared to the others. We looked at this misclassification in more details in the "Model Review" section.

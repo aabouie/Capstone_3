@@ -95,7 +95,7 @@ to be around you trust me I know.
 
 
 ## Towards a Better Model
-In the future, I plan to work on the following two projects:
+In the future, I plan to continue on this project as mentioned below:
 
 * Build a Long Short Term Memory (LSTM) deep learning model and try feature engineering by transforming
 the corpus into a list of sequences using Word2Vec model

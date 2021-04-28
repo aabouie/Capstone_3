@@ -33,7 +33,7 @@
 
 
 
-### Towards a Better Model
+## Towards a Better Model
 In the future, I plan to work on the following two projects:
 
 * Build a Long Short Term Memory (LSTM) deep learning model and try feature engineering by transforming
@@ -43,5 +43,5 @@ the corpus into a list of sequences using Word2Vec model
 
 
 
-### Acknowledgments
+## Acknowledgments
 I greatly appreciate Galvanize instructors, Juliana Duncan and Dan Rupp, for their valuable comments during this project.

@@ -10,9 +10,9 @@ In this project, we decided to work on Yahoo dataset and categorize the question
 As mentioned in the previous part, the Yahoo Answer! dataset has been used in this work. This dataset can be downloaded from the following link:
 https://course.fast.ai/datasets
 
-<img align="right" width="400" src="img/Classes_2.png">
 
 I selected 140,000 documents from each category, total of 1,400,000 documents. As can be seen in the following figure, Yahoo has classified the questions into 10 groups including:
+<img align="right" width="400" src="img/Classes_2.png">
 *   Politics & Government
 *   Family and Relationships
 *   Entertainment & Music

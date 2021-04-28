@@ -55,8 +55,7 @@ Afterward, we performed hyperparameter tuning using Gridsearching and cross vali
 
 
 ## ML Model
-The following figure shows the accuracy score of the four classification models. As can be seen, logistic classification achieved highest score of 0.72. I have to mention there is a publication from Yahoo on this dataset with accuracy score of 0.68. Hence, logistic classification is performing relatively well on this dataset.
-
+The following table presents the accuracy score achieved by the four different classification models. As can be seen, logistic classification achieved highest score of 0.72. I have to mention there is a publication from Yahoo on this dataset with accuracy score of 0.68. Hence, logistic classification is performing relatively well on this dataset.
 
 | Model Name  |  Accuracy Score |
 | -- | -- |
@@ -66,13 +65,15 @@ The following figure shows the accuracy score of the four classification models.
 |  Naive Bayes  |  0.65  |
 
 <img align="right" width="400" src="img/ROC_Curve_2.png">
-
-![](img/ROC_Curve_2.png)
-
-
-
-
+The following figure shows the ROC curve for all the different categories. The y-axis is true positive rate and x-axis is false positive rate. As can be seen, the model is having a good performance for most categories except "Business & Finance" and "Education & Reference".
 ![](img/Confusion_3.png)
+Confusion matrix also shows the same behavior as we have relatively lower true positives (main diagonal) for these two specific categories compared to the others. We looked at this misclassification in more details in the "Model Review" section.
+
+
+
+
+
+
 
 
 |      Sports        |       Politics        |

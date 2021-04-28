@@ -34,8 +34,10 @@ Subjectivity also quantifies the amount of personal opinion and factual informat
 <img align="right" width="400" src="img/sentiment_polarity.png">
 This figure shows the histogram of sentiment polarity for the 1.4 million questions on Yahoo Answer website. As can be seen, the sentiment is mainly distributed around 0 which indicates that in general, the questions have neutral sentiments. In other words, users ask questions in neutral way.
 
-<img align="right" width="400" src="img/subj_vs_polar.png">
  In addition, we plotted the subjectivity vs. polarity for each category by averaging the polaity and subjectivity for each  group. In general, the mean subjectivity varies between 0.28 and 0.42 which means there is some kind of bias or personal opinion in the questions. "Family and Relationship" category seems to have the highest subjectivity which means user have higher bias in that category when asking questions compared to the other categories. Meanwhile, "Science and Mathematics" has the lowest subjectivity. 
+![](img/subj_vs_polar.png)
+
+
 
 ## Modeling
 The following figure shows the workflow that we implemented in this work. 

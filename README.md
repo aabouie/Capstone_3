@@ -1,21 +1,30 @@
 <img align="right" width="250" src="img/Logo_1.png">
 
 # NLP Analysis of Yahoo Questions for Content Tagging
-![](img/Logo_1.png)
-
-Text
-
-
+Content tagging or text classification is the task of assigning a set of pre-defined categories. Content Tagging can be used to organize, structure, and categorize texts and documents.
+In fact, we use content tagging in our daily activites such as when we are using search engines, searching through Amazon website, or when we are using social media such as Facebook and Instagram.
+In this project, we decided to work on Yahoo dataset and categorize the questions into one of the 10 categories that have been defined by Yahoo.
 
 
 ## EDA Analysis
-
-
-The dataset for Yahoo questions and answers can be downloaded from this link:
+As mentioned in the previous part, the Yahoo Answer! dataset has been used in this work. This dataset can be downloaded from the following link:
 https://course.fast.ai/datasets
 
+<img align="right" width="400" src="img/Classes_2.png">
 
-<img align="right" width="400" src="img/sentiment_polarity.png">
+I selected 140,000 documents from each category, total of 1,400,000 documents. As can be seen in the following figure, Yahoo has classified the questions into 10 groups including:
+*   Politics & Government
+*   Family and Relationships
+*   Entertainment & Music
+*   Business & Finance
+*   Sports
+*   Computers & Internet
+*   Education & Reference
+*   Health
+*   Science & Mathematics
+*   Society & Culture
+
+
 
 
 ![](img/Classes_2.png)

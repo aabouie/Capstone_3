@@ -51,13 +51,12 @@ Then, we splitted our data into training and test set with ratio of 90:10. Four 
 *   Logistic Classification
 *   Random Forest
 *   Gradient Boost.
-In the next step, we used four different 
-
-
-
+Afterward, we performed hyperparameter tuning using Gridsearching and cross validation to find the optimum parameters. Then. we applied the tuned model to the testing dataset.
 
 
 ## ML Model
+The following figure shows the accuracy score of the four classification models. As can be seen, logistic classification achieved highest score of 0.72. I have to mention there is a publication from Yahoo on this dataset with accuracy score of 0.68. Hence, logistic classification is performing relatively well on this dataset.
+
 
 | Model Name  |  Accuracy Score |
 | -- | -- |
